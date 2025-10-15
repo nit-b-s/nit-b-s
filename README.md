@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nit-b-s :)
 - 👀 I’m interested in Electronics, Coding, Maths and Physics
-- 🌱 I’m currently learning Data Science and Robotics
+- 🌱 I’m currently learning Machine learning, Computer Vision, FPGA programming, C, C++ and Robotics.
 - 💞️ I’m looking to collaborate on [not sure]
 - 📫 How to reach me ..
 
