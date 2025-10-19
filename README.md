@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nit-b-s :)
-- 👀 I’m interested in Electronics, Coding, Maths and Physics
-- 🌱 I’m currently learning Machine learning, Computer Vision, FPGA programming, C, C++ and Robotics.
-- 💞️ I’m looking to collaborate on [not sure]
-- 📫 How to reach me ..
+- 👀 I’m interested in Electronics, Coding, Maths and Physics.
+- 🌱 I’m currently learning Machine learning, Physics & Math, Basic Electronics & Integrated Circuit Electronics, Computer Vision using MATLAB, FPGA/Hardware programming using Verilog, C, C++ and Robotics using Python.
+- 💞️ I’m looking to collaborate on and help with research work at Laboratories. If you need a lab assistant at your University, please call me for an interview :).
+- 📫 How to reach me .. niteshbhupalsuryavanshi@gmail.com
 
 <!---
 nit-b-s/nit-b-s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
