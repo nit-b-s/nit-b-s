@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nit-b-s (Nitesh B Suryavanshi) :)
-- 👀 I’m interested in Electronics, Coding, Maths and Physics.
+- 👀 I’m interested in Physics, Math, Electronics and Coding.
 - 🌱 I’m currently learning Machine learning, Physics, Math & Chemistry, Basic Electronics & Integrated Circuit Electronics, Computer Vision using MATLAB, Full-Stack software development, FPGA/Hardware programming using Verilog, C, C++ and Robotics using Python. [Updated during the year 2026]
 - 💞️ I’m looking to help with research work at Semiconductor / Physics Laboratories. If you need a lab assistant at your University, please call me for an interview :).
 - I am always learning new stuff and I can't stop.
